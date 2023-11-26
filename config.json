@@ -1,0 +1,18 @@
+{
+    "videos": 5000,
+    "threads": 3,
+    "folderInput": "input",
+    "folderOutput": "output",
+    "folderTemp": "temp",
+    "folderBackground": "background",
+    "brightness_min": 0.3,
+    "brightness_max": 1.0,
+    "speed_min":0.98,
+    "speed_max":1.02,
+    "contrast_min": 0.7,
+    "contrast_max": 1.2,
+    "gamma_min":0.75,
+    "gamma_max":1,
+    "audio_volume_min": 0.1,
+    "audio_volume_max": 0.2
+}
